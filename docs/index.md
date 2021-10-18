@@ -1,3 +1,7 @@
+## Test page
+
+[Show me!](https://AlesMMichalek.github.io/ios-auto-fill/index.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AlesMMichalek/ios-auto-fill/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
