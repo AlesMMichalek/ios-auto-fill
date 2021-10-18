@@ -1,6 +1,6 @@
 ## Test page
 
-[Show me!](https://AlesMMichalek.github.io/ios-auto-fill/index.html)
+[Show me!](https://AlesMMichalek.github.io/ios-auto-fill/test.html)
 
 ## Welcome to GitHub Pages
 
